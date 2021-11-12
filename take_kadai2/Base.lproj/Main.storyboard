@@ -79,10 +79,10 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="bottomTextField" destination="NHa-Wh-qMm" id="Y7g-5I-5XC"/>
                         <outlet property="resultLabel" destination="x2W-DI-nVn" id="JOn-u9-t0q"/>
                         <outlet property="segmentedControl" destination="bwk-Ub-Jna" id="PGV-od-iSH"/>
-                        <outlet property="textField1" destination="Gxk-q4-ZZJ" id="Da4-Pu-M2W"/>
-                        <outlet property="textField2" destination="NHa-Wh-qMm" id="Odc-n2-R6H"/>
+                        <outlet property="topTextField" destination="Gxk-q4-ZZJ" id="E7V-LB-9Jr"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
